@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "671a2a066a670a86deea0c93"
+  },
+  "name": "Spanish Latte",
+  "description": "Latte na Spanish",
+  "price": {
+    "$numberLong": "120"
+  }
+},
+{
+  "_id": {
+    "$oid": "671a2a276a670a86deea0c94"
+  },
+  "name": "Hot Chocolate",
+  "description": "Medyo Mainit",
+  "price": {
+    "$numberLong": "110"
+  }
+},
+{
+  "_id": {
+    "$oid": "671a2a2e6a670a86deea0c95"
+  },
+  "name": "Ube Matcha",
+  "description": "Masarap",
+  "price": {
+    "$numberLong": "130"
+  }
+}]
