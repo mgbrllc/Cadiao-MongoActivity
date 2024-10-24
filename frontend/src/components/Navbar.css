@@ -1,0 +1,15 @@
+.navbar{
+    background-color: palevioletred;
+}
+
+.navbar-logo{
+    text-decoration: none;
+}
+
+.navbar-link{
+    font-weight: bolder;
+}
+
+.navbar-link:hover{
+    color:darkred;
+}
